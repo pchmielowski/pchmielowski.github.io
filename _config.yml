@@ -1,1 +1,10 @@
-theme: jekyll-theme-modernist
+title: Piotr Chmielowski
+description: >-
+  I'm an Android developer.
+baseurl: ""
+url: ""
+twitter_username: p_chmielowski
+github_username:  pchmielowski
+
+markdown: kramdown
+theme: minima
