@@ -7,7 +7,7 @@ title: Home
 
 ## Remember the pill
 
-*Android* application for tracking user's medicines.
+**Android** application for tracking user's medicines.
 Allows setting up when medicine should be taken and specifying dose.
 Optionally can show notifications when it is time to take the medicine.
 
